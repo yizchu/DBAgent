@@ -7,8 +7,8 @@ from config.kg import MAX_EXAMPLES
 from config.paths import *
 
 DEEPSEEK_CLIENT = OpenAI(
-    api_key="sk-c8324279e70d42c6a5b34a2f67829cd8",
-    base_url="https://api.deepseek.com",
+    api_key="<your_api_key>",
+    base_url="<api_base_url>",
 )
 
 '''
